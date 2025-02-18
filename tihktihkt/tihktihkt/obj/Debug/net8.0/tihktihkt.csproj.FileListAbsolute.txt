@@ -1,0 +1,14 @@
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\bin\Debug\net8.0\tihktihkt.exe
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\bin\Debug\net8.0\tihktihkt.deps.json
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\bin\Debug\net8.0\tihktihkt.runtimeconfig.json
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\bin\Debug\net8.0\tihktihkt.dll
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\bin\Debug\net8.0\tihktihkt.pdb
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.AssemblyInfoInputs.cache
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.AssemblyInfo.cs
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.dll
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\refint\tihktihkt.dll
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.pdb
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\tihktihkt.genruntimeconfig.cache
+C:\Users\MEGA\Documents\10zh\tihktihkt\tihktihkt\obj\Debug\net8.0\ref\tihktihkt.dll
