@@ -4,22 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace chvhbhg
+namespace ConsoleApp19
 {
     public class Student
     {
         public string Name { get; set; }
-        public double AverageGrade { get; set; }
+        public int Score { get; set; }
 
-        public Student(string name, double averageGrade)
+        public Student(string name, int score)
         {
             Name = name;
-            AverageGrade = averageGrade;
-        }
-
-        public override string ToString()
-        {
-            return $"Name: {Name}, Average Grade: {AverageGrade}";
+            Score = score;
         }
     }
 }
