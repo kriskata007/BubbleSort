@@ -1,0 +1,14 @@
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.AssemblyInfoInputs.cache
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.AssemblyInfo.cs
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\bin\Debug\net8.0\njfrfr.exe
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\bin\Debug\net8.0\njfrfr.deps.json
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\bin\Debug\net8.0\njfrfr.runtimeconfig.json
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\bin\Debug\net8.0\njfrfr.dll
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\bin\Debug\net8.0\njfrfr.pdb
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.dll
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\refint\njfrfr.dll
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.pdb
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\njfrfr.genruntimeconfig.cache
+C:\Users\MEGA\Documents\10zh\njfrfr\njfrfr\obj\Debug\net8.0\ref\njfrfr.dll

@@ -1,22 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using ConsoleApp19;
-
-public class Program
+﻿namespace njfrfr
 {
-    public static void Main()
+    internal class Program
     {
-        University university = new University();
+        static void Main(string[] args)
+        {
+            DoublyLinkedList dll = new DoublyLinkedList();
 
-        university.AddStudent(new Student("Jivko", 90));
-        university.AddStudent(new Student("Dancho", 95));
-        university.AddStudent(new Student("Maksut", 85));
-        university.AddStudent(new Student("Todorut", 92));
+            Console.WriteLine("Write the count of the numbers in this List: ");
+            int numberOfElements = int.Parse(Console.ReadLine());
 
-        Console.WriteLine(university.FindStudentByScore(92)); 
-        Console.WriteLine(university.FindStudentByScore(95)); 
+            Console.WriteLine("Fill the List with numbers: ");
+            for (int i = 0; i < numberOfElements; i++)
+            {
+                Console.Write($"Element {i + 1}: ");
+                int value = int.Parse(Console.ReadLine());
+                dll.AddToEnd(value);
+            }
+
+            Console.WriteLine("First List: ");
+            dll.PrintList();
+
+            dll.Reverse();
+
+            Console.WriteLine("Reversed List: ");
+            dll.PrintList();
+        }
     }
 }
-
-
-
